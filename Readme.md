@@ -1,24 +1,24 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/monicasagne//">
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/linkedin.svg" alt="Monica Sagne | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/instagram.svg" alt="Monica | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/whatsapp.png" alt="Monica | Whatsapp" width="21px"/>
   </a>
 </p>
   
@@ -41,7 +41,7 @@
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
 <p align="center">    
-<img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+<img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/postmanproject.jpg" alt="Monica | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
@@ -94,22 +94,22 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=monicasagne006)](https://github.com/monicasagne006)
+[![Monica's github stats](https://github-readme-stats.vercel.app/api?username=monicasagne006)](https://github.com/monicasagne006)
 
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:monicapoudwal@gmail.com">monicapoudwal@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/monicasagne">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/monicasagne//">
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/linkedin.svg" alt="Monica Sagne | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/instagram.svg" alt="Monica | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/whatsapp.png" alt="Monica | Whatsapp" width="21px"/>
   </a>
 </p>
   
