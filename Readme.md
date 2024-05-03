@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">Monica</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
 
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/monicasagne//">
     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/linkedin.svg" alt="Monica Sagne | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
+  <a href="https://instagram.com/tech_with_Monica">
     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/instagram.svg" alt="Monica | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
@@ -24,13 +24,13 @@
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/ISTQB.png" alt="Monica | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-cp.png" alt="Monica | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-dev.png" alt="Monica | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-sa.png" alt="Monica | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/ocpjp.png" alt="Monica | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/safe.png" alt="Monica | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/csm.webp" alt="Monica | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -105,7 +105,7 @@ in test coverage</b>
   <a href="https://www.linkedin.com/in/monicasagne//">
     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/linkedin.svg" alt="Monica Sagne | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
+  <a href="https://instagram.com/tech_with_Monica">
     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/instagram.svg" alt="Monica | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
