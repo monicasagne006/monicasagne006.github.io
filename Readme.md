@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">Monica</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">Monica Sagne</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">Senior Test Analyst with experience in Manual and Automation Testing. Started with Manual Testing, then moved to Automation Testing using Selenium WebDriver with Java, Cucumber BDD, API testing with Postman and Rest Assured, database testing.</h2>
 
 ### 🤝 Connect with me:
 
@@ -22,19 +22,6 @@
   </a>
 </p>
   
-## 🥇 Certifications
-<p align="center">
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/ISTQB.png" alt="Monica | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-cp.png" alt="Monica | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-dev.png" alt="Monica | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/aws-sa.png" alt="Monica | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/ocpjp.png" alt="Monica | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/safe.png" alt="Monica | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/csm.webp" alt="Monica | AWS-SA" width="100 px"/>
-</p>
-
-<p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
-
 ## 🔭 I'm currently working on
 
 - Microservices Testing Automation Framework
@@ -46,33 +33,6 @@
 ## 🌱 I'm currently learning
 
 - I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
-
-
-## 🥇 Achievements
-
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
-
--Guided and trained 5 Junior QA team members on test automation best practices,
-resulting in a  <b>40% decrease in test execution time and a 25% increase in test
-coverage </b>
-
--Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
-in test coverage</b>
-
-
-## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
-
-## 💻 My Projects 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monicasagne006&repo=AutomationFramework)](https://github.com/monicasagne006/AutomationFramework)
-
-[Automated Regression Testing Framework Java](https://github.com/monicasagne006/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
-
-[Automated Regression Testing Framework Python](https://github.com/monicasagne006/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
 
 
 ## 💼 Technical Skills
