@@ -1,7 +1,8 @@
 <p align="center">
-  <h1 align="left">Monica Sagne</h1>
+  <a href="Monica Sagne" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/banner.png" alt="My banner">
+  </a>
 </p>
-
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">Monica Sagne</a> 👋</h1>
 
 <h3 align="center">Senior Test Analyst with experience in Manual and Automation Testing. Started with Manual Testing, then moved to Automation Testing using Selenium WebDriver with Java, Cucumber BDD, API testing with Postman and Rest Assured, database testing.</h3>
