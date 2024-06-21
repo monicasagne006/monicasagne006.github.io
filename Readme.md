@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/monicasagne006/monicasagne006.github.io/main/images/banner.png" alt="My banner">
-  </a>
+  <h1 align="left">Monica Sagne</h1>
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/monicasagne/" target="_blank" rel="noreferrer">Monica Sagne</a> 👋</h1>
